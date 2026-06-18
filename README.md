@@ -10,13 +10,7 @@ The objective of this lab is not only to understand how Kubernetes components wo
 
 ## Architecture Diagram
 
-> Replace the image path below with your actual diagram.
-
-```markdown
 ![Kubernetes Architecture Security Overview](images/kubernetes-architecture-security-overview.png)
-```
-
----
 
 # Learning Objectives
 
